@@ -42,7 +42,6 @@ $ python3 civ_drafter.py 3 4
 Player 1: {Kristina: Swedish}, {Tokugawa: Japanese}, {Basil II: Byzantine}, {Gilgamesh: Sumerian}
 Player 2: {Victoria (Age of Steam): English}, {Mvemba a Nzinga: Kongolese}, {Eleanor of Aquitaine: French}, {Suleiman (Kanuni): Ottoman}
 Player 3: {Peter: Russian}, {Cleopatra (Egyptian): Egpytian}, {Alexander: Macedonian}, {Jadwiga: Polish}
-bt@grond:~/git/civilization-random-leader-drafter$
 ```
 
 ## Customization
